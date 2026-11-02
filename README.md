@@ -823,4 +823,4 @@ int main(int argc, char **argv)
 <img width="1002" height="158" alt="image" src="https://github.com/user-attachments/assets/cd1a450e-3895-4067-bbc1-c51632d8be8f" />
 
 ## RESULT:
-Thus, Implementation of sum arrays on host and device is done in nvcc cuda using random number.
+The CPU and GPU execution times were compared using three different block and thread configurations.the GPU execution times were 0.003133 sec, 0.000943 sec, and 0.001026 sec.The highest GPU execution time was 0.003133 sec, while the lowest was 0.000943 sec, which provided the best performance.
