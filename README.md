@@ -811,10 +811,15 @@ int main(int argc, char **argv)
 ~~~
 ## OUTPUT:
 1 
+
 <img width="918" height="182" alt="image" src="https://github.com/user-attachments/assets/74c894f3-ecc2-4441-bd21-fceb7a1a9125" />
+
 2
+
 <img width="948" height="202" alt="image" src="https://github.com/user-attachments/assets/4f727d56-224f-4909-8545-785c788483f2" />
+
 3
+
 <img width="1002" height="158" alt="image" src="https://github.com/user-attachments/assets/cd1a450e-3895-4067-bbc1-c51632d8be8f" />
 
 ## RESULT:
