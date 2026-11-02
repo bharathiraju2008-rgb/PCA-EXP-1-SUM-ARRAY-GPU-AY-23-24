@@ -288,7 +288,7 @@ int main(int argc, char **argv)
 
     return(0);
 }
-
+~~~
 2
 
 %%cuda
@@ -547,7 +547,7 @@ int main(int argc, char **argv)
 
     return(0);
 }
-
+~~~
 3
 
 %%cuda
