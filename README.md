@@ -289,8 +289,9 @@ int main(int argc, char **argv)
     return(0);
 }
 ~~~
-2
 
+2
+~~~
 %%cuda
 #include <stdio.h>
 #include <sys/time.h>
@@ -548,8 +549,9 @@ int main(int argc, char **argv)
     return(0);
 }
 ~~~
-3
 
+3
+~~~
 %%cuda
 #include <stdio.h>
 #include <sys/time.h>
